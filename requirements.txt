@@ -1,0 +1,6 @@
+gradio
+requests
+
+torch
+
+transformers
